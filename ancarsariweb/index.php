@@ -33,8 +33,9 @@
                 <li class="active"><a href="index.php"> HOME </a></li>
                 <li><a href="media/about.html"> ABOUT </a></li>
                 <li><a href="media/service.html"> SERVICE </a></li>
-                <li><a href="../media/contact.html"> CONTACT </a></li>
-
+                <li><a href="media/contact.html"> CONTACT </a></li>
+                <li><a href="deret/aritmatika.php"> ARITMATIKA </a></li>
+                <li><a href="deret/fibonacci.php"> FIBONACCI </a></li>
             </ul>
         </div>
     </header>
